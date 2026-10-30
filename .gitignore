@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Environment variables (Berisi GEMINI_API_KEY sensitif)
+.env
+.env.local
+.env.*.local
+
+# Package configs (sesuai permintaan)
+package.json
+package-lock.json
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System Files
+.DS_Store
+Thumbs.db
